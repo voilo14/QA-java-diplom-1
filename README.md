@@ -8,7 +8,7 @@
 
 Библиотеки: Jacoco, Mockito, JUnit 4.
 
-Тесты охватывали классы: Булочка, бургер, Ингредиент, Тип ингредиента.
+Тесты охватывали классы: Bun, Burger, Ingredient, IngredientType.
 
 Mocks, stabs и parameterization использовались там, где я считал нужным.
 
